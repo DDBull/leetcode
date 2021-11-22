@@ -1,2 +1,2 @@
 # leetcode
-To track my progress at leetcode.com
+To track my progress on the leetcode.com
